@@ -10,13 +10,15 @@ import java.util.List;
 
 public class TimeStampSteps {
 
-    public static ValidatableResponse response;
 
+    public static ValidatableResponse response;
     public static long currentTimeStamp;
     public static List<Long> startTimeList;
 
+    //@Steps to initialise object of GamesSteps class
     @Steps
     VirginGamesSteps virginGamesSteps;
+
     @And("^User gets current timestamp$")
     public void userGetsCurrentTimestamp() {
         virginGamesSteps.currentTimeStamp();

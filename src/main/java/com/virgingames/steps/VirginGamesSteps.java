@@ -13,12 +13,20 @@ import java.util.List;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.greaterThan;
 
+/**
+ * GamesSteps class to write methods,
+ * which have been used within cucumber steps
+ */
+
 public class VirginGamesSteps {
 
     public static ValidatableResponse response;
     public static List<String> DefaultGameFrequencyList;
     public static long currentTimeStamp;
     public static List<Long> startTimeList;
+
+
+    //@Step annotation shows the step info in Serenity Report
 
     @Step("Checking status code of successful GET request")
     public ValidatableResponse checkStatusCode() {

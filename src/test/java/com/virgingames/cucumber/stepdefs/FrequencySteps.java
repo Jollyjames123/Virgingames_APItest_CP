@@ -9,8 +9,10 @@ import java.util.List;
 
 public class FrequencySteps {
 
+    //List declaration to store values of response, so that we can use it for multiple steps if needed
     static List<String> defaultGameFrequency;
 
+    //@Steps to initialise object of GamesSteps class
     @Steps
     VirginGamesSteps virginGamesSteps;
 

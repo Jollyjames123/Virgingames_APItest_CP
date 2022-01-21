@@ -1,9 +1,10 @@
 Feature: Validating different values for virgingames application
 
-
+@SMOKE
   Scenario: Check that user can get data with valid path and end point
     When    User sends a GET request with '/bingo' path and '/GetBingoLobbyFeed.do' end point
     Then    User gets valid status code '200'
+
 
   Scenario: Verify that default value of game frequency is 300000
     When    User sends a GET request with '/bingo' path and '/GetBingoLobbyFeed.do' end point

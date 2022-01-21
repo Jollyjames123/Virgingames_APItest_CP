@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a57cea1-2dbf-467a-9dcd-f15d5badcee2" name="Changes" comment="" />
+    <list default="true" id="2a57cea1-2dbf-467a-9dcd-f15d5badcee2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serenity.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/virgingames/steps/VirginGamesSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/virgingames/steps/VirginGamesSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/virgingames/cucumber/CucumberRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/virgingames/cucumber/CucumberRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/virgingames/cucumber/stepdefs/FrequencySteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/virgingames/cucumber/stepdefs/FrequencySteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/virgingames/cucumber/stepdefs/StatusCodeSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/virgingames/cucumber/stepdefs/StatusCodeSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/virgingames/cucumber/stepdefs/TimeStampSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/virgingames/cucumber/stepdefs/TimeStampSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/feature/virgingames.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/feature/virgingames.feature" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,85 +56,7 @@
       <recent name="C:\Users\patel\IdeaProjects\virgingames_test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BingoTest.test002">
-    <configuration name="BingoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="virgingames_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.virgingames.testinfo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.virgingames.testinfo" />
-      <option name="MAIN_CLASS_NAME" value="com.virgingames.testinfo.BingoTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BingoTest.test001 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Virgingames_test_CP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.virgingames.testinfo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.virgingames.testinfo" />
-      <option name="MAIN_CLASS_NAME" value="com.virgingames.testinfo.BingoTest" />
-      <option name="METHOD_NAME" value="test001" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BingoTest.test001" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="virgingames_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.virgingames.testinfo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.virgingames.testinfo" />
-      <option name="MAIN_CLASS_NAME" value="com.virgingames.testinfo.BingoTest" />
-      <option name="METHOD_NAME" value="test001" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BingoTest.test002" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Virgingames_test_CP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.virgingames.testinfo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.virgingames.testinfo" />
-      <option name="MAIN_CLASS_NAME" value="com.virgingames.testinfo.BingoTest" />
-      <option name="METHOD_NAME" value="test002" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CucumberRunner (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Virgingames_test_CP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.virgingames.cucumber.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.virgingames.cucumber" />
-      <option name="MAIN_CLASS_NAME" value="com.virgingames.cucumber.CucumberRunner" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Maven.virgingames_test_smoke">
     <configuration name="virgingames-test" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -152,23 +84,38 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
+    <configuration name="virgingames_test_smoke" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="verify" />
+                <option value="-Dcucumber.options=--tags @SMOKE" />
+                <option value="serenity:aggregate" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="JUnit.BingoTest" />
-      <item itemvalue="JUnit.BingoTest.test001" />
-      <item itemvalue="JUnit.CucumberRunner (1)" />
-      <item itemvalue="JUnit.BingoTest.test001 (1)" />
-      <item itemvalue="JUnit.BingoTest.test002" />
+      <item itemvalue="Maven.virgingames_test_smoke" />
       <item itemvalue="Maven.virgingames-test" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.BingoTest.test002" />
-        <item itemvalue="JUnit.BingoTest.test001 (1)" />
-        <item itemvalue="JUnit.CucumberRunner (1)" />
-        <item itemvalue="JUnit.BingoTest" />
-        <item itemvalue="JUnit.BingoTest.test001" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
